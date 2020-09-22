@@ -1,0 +1,10 @@
+* GET & POST both used for exchango information from cutomer to server.
+
+1) GET used to not sensitive information that will be shown in url.
+2) POST used to sensitive information that will be hidden and more security than GET.
+3) We use POST for regestiration/Login process.
+4) POST will carried information in the body.
+5) GET , Fetch the page with it is data.
+6) With GET data will sent by it can be seen.
+7) POST , Mean sent data or request. 
+8) GET , mean recieve data and got it.
